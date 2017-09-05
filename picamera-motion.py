@@ -1,10 +1,8 @@
-#!/usr/bin/python
-#
-#     Lightweight Motion Detection using python picamera libraries
+#     Raspberry Motion Detection using python picamera libraries
 #        based on code from raspberry pi forum by user utpalc
-#        modified by Claude Pageau for this working example
+#        modified by Jacques Innocent
 #     ------------------------------------------------------------
-# original code on github https://github.com/pageauc/picamera-motion
+# original code on github https://github.com/JacquesInnocent/picamera/blob/picamera/picamera-motion.py
 
 # This is sample code that can be used for further development
 
@@ -203,7 +201,8 @@ if __name__ == '__main__':
         print "Exiting Program"
         print "+++++++++++++++" 
         print ""        
-
+#Innocent...
+#Happy coding.
     
     
     
