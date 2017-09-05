@@ -20,10 +20,8 @@ mkdir images
 sudo apt-get install python-imaging
 
 sudo apt-get install python-picamera
-wget https://raw.github.com/pageauc/picamera-motion/master/picamera-motion.py
-
-wget https://raw.github.com/pageauc/picamera-motion/master/Readme.txt
-python
+wget https://github.com/JacquesInnocent/picamera/blob/picamera/picamera-motion.py
+wget https://github.com/JacquesInnocent/picamera/blob/picamera/Readme.txt
  ./picamera-motion.py
 
 
@@ -47,3 +45,6 @@ you need to implement a simple python only
 motion detection application
 using the picamera python libraries.
 
+
+
+Innocent...
